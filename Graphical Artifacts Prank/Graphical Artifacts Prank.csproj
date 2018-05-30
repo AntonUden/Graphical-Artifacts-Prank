@@ -7,7 +7,7 @@
     <ProjectGuid>{16CC39F5-FEDE-47A5-9476-3F11A13DFF7F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Graphical_Artifacts_Prank</RootNamespace>
-    <AssemblyName>System</AssemblyName>
+    <AssemblyName>sysRender</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
