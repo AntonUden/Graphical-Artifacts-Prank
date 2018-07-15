@@ -76,7 +76,6 @@ namespace Graphical_Artifacts_Prank
                 BB.Clear(this.TransparencyKey);
 
                 int choice = seed.Next(0, 16);
-                //int choice = seed.Next(0, 150);
 
                 if (choice < 3)
                 {
